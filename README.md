@@ -4,7 +4,7 @@ This is a Mathematics Calculator app made with Unity Engine to showcase Math's f
 - Matricies are mainly explained
 - Mathematical Terms like Addition, Multiplication and ohter things are shown in this project.
 
-###Installation Guide
+### Installation Guide
 [NOTE: This project dosen't contain Library Directory]
 1. Download Full Project
 2. Extract project in selected Directory
