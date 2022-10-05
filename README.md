@@ -3,6 +3,8 @@ This is a Mathematics Calculator app made with Unity Engine to showcase Math's f
 
 - Matricies are mainly explained
 - Mathematical Terms like Addition, Multiplication and ohter things are shown in this project.
+- Includes Firebase Authentication System
+- Example for Firebase Login/Sign up form
 
 ### Installation Guide
 1. Download Full Project
